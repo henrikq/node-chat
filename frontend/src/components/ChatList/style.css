@@ -1,0 +1,11 @@
+.chat-card {
+    padding: 8px;
+    margin: 4px;
+    border-radius: 8px;
+    background-color: lightgray;
+}
+
+
+.chat-title {
+    font-weight: bold;
+}
